@@ -1,12 +1,13 @@
 shuodian 什么啊
 真的是
 sdf d
-sdf sdf
+sdf
 
 
 
-
-
-
-creating a  new branch is quick & simple
+<<<<<<< HEAD
+mamamoo
+=======
+mamamoo
+>>>>>>> feature1
  
