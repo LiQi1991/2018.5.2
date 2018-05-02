@@ -8,6 +8,5 @@ sdf sdf
 
 
 
-
-sd
-f d 
+creating a  new branch is quick & simple
+ 
